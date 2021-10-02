@@ -14,7 +14,7 @@ def LogBased2(c):
 
 print("Value of the x to the power of y is {}".format(PowerIt(x,y)))
 
-print("Log of x is {}".format(LogBased2(x)))
+print("2 based log of x is {}".format(LogBased2(x)))
 print(" ")
 print(" ")
 print(" ")
